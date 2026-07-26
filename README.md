@@ -15,7 +15,7 @@ agent follows to wire the tool into your repo, ask you for the few params it nee
 start the loop:
 
 ```bash
-export ONESHOTFIG_NPX_SPEC="https://github.com/samwesto/oneshotfig/releases/download/v0.1.0-beta.2/oneshotfig-0.1.0-beta.2.tgz"
+export ONESHOTFIG_NPX_SPEC="https://github.com/samwesto/oneshotfig/releases/download/v0.1.0-beta.3/oneshotfig-0.1.0-beta.3.tgz"
 npx "$ONESHOTFIG_NPX_SPEC" --use-one-shot-fig
 ```
 
